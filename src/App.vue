@@ -5,7 +5,7 @@
   </div>
 </template>
 <script>
-import Toolbar from "./components/Toolbar";
+import Toolbar from "./components/Toolbar.vue";
 import NoteContainer from "./components/NoteContainer.vue";
 
 export default {
